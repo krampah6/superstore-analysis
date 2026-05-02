@@ -9,7 +9,3 @@ Questions answered:
 4. Which months have the highest sales?
 5. Which products sell well but lose money?
 
-Key findings:
-- Write what region came top here
-- Write which category sold most here
-- Write one interesting thing you noticed here
